@@ -1,3 +1,7 @@
 title: HYIP Script Buyer Notes
 description: A plain guide to buying HYIP script and crypto investment platform software.
 theme: jekyll-theme-cayman
+url: https://hyipscript.github.io
+baseurl: /hyip-script
+plugins:
+  - jekyll-sitemap
